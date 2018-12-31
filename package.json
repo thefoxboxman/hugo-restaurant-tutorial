@@ -54,7 +54,9 @@
     "webpack": "^1.13.1",
     "whatwg-fetch": "^1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/register": "^7.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thefoxboxman/hugo-restaurant-tutorial.git"
