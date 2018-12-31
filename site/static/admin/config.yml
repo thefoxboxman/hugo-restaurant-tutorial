@@ -1,9 +1,11 @@
 backend:
   name: github
-  repo: thefoxboxman/hugo-restaurant-tutorial.git
+  repo: thefoxboxman/hugo-restaurant-tutorial
   branch: master
 
 media_folder: "scr/img/gallery"  #folder where uploaded image files should go
+
+publish_mode: editorial_workflow
 
 collections:
   - name: food
