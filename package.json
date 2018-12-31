@@ -12,7 +12,7 @@
     "generate": "split-guide generate",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "John De Costa",
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^6.3.7",
@@ -54,5 +54,13 @@
     "webpack": "^1.13.1",
     "whatwg-fetch": "^1.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefoxboxman/hugo-restaurant-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thefoxboxman/hugo-restaurant-tutorial/issues"
+  },
+  "homepage": "https://github.com/thefoxboxman/hugo-restaurant-tutorial#readme"
 }

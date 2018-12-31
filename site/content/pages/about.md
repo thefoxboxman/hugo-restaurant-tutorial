@@ -4,7 +4,8 @@ title = "About"
 url = "/about"
 +++
 
-## Something about the restaurant goes here
+## Tasty Licks
+
 
 ---
 
