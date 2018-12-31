@@ -8,7 +8,7 @@ url = "/about"
 
 ---
 
-test
+Great food, extra-ordinary service.....fantastic price!
 
 Sincerely,
-# Mr. Bojangles
+# Chef John
