@@ -5,10 +5,7 @@ title = "Tasty Licks"
 [params]
   description = "An example website for restaurants built by [@thefox_man](https://github.com/foxboxman) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
 
-[[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
+
 
 
 [[menu.main]]
@@ -24,4 +21,4 @@ title = "Tasty Licks"
 	[[menu.main]]
     name = "Drinks"
     url  = "/drinks"
-    weight = 2	
+    weight = 3	
